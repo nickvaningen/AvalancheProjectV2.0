@@ -14,7 +14,6 @@ public class playermovent : MonoBehaviour {
     void Awake()
     {
         rigidBody  = GetComponent<Rigidbody>  ();
-       
     } 
 	void Update  ()
     {
